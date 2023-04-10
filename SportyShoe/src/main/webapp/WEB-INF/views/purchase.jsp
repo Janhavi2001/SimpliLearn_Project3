@@ -40,7 +40,7 @@
 		</table>
 </form>
 				
-	<h4>Thank You For Shopping With Us</h4>			
+		
 				
 		
 </body>

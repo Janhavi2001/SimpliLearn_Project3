@@ -25,7 +25,7 @@
 	</table>
 	<form action="/listuser" method="post">
 
-		User Name:<input name="username" type="text"> Click to Search
+		User Name:<input name="username" type="text" required> Click to Search
 		the User :<input type="submit" value="Search" />
 
 	</form>

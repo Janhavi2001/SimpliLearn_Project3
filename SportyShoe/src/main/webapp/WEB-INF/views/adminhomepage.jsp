@@ -27,13 +27,13 @@
 		<form action="/category">
 			<input type="submit" value="Filter By Category" />
 		</form>
-		<h2>Click Below Button to Find List of User</h2>
+		<h2>List of User</h2>
 		<form action="/listuser">
-			<input type="submit" value="list of User" />
+			<input type="submit" value="List User" />
 		</form>
-		<h2>Click Below Button to Find List of Purchase Item</h2>
+		<h2>List of Purchase Item</h2>
 		<form action="/listpurchase">
-			<input type="submit" value="list of Purchase" />
+			<input type="submit" value="List Purchase" />
 		</form>
 		
 		

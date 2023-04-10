@@ -8,7 +8,7 @@
 <title>User Display</title>
 </head>
 <body>
-<h2>The user you want to find</h2>
+<h2>User you searched exists</h2>
 	<table border="2">
 		<tr>
 			<th>UserId</th>

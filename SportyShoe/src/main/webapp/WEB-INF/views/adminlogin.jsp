@@ -7,19 +7,17 @@
 <title>User Login</title>
 </head>
 <body>
-	<h1>
-		Admin HomePage
-		</h2>
+	
 		<h2>Login Credentials Required</h2>
 		<form action="/adminlogin" method="post">
 			<table>
 				<tr>
 					<td>User Name</td>
-					<td><input name="username" type="text"></td>
+					<td><input name="username" type="text" required></td>
 				</tr>
 				<tr>
 					<td>Password</td>
-					<td><input name="password" type="password"></td>
+					<td><input name="password" type="password" required></td>
 				</tr>
 
 				<td><input type="submit" value="Login" /></td>

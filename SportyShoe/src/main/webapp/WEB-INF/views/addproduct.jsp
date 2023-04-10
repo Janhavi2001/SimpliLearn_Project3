@@ -13,19 +13,19 @@
 		
 			<tr>
 				<td>Brand</td>
-				<td><input name="brand" type="text"></td>
+				<td><input name="brand" type="text" required></td>
 			</tr>
 			<tr>
 				<td>Size</td>
-				<td><input name="size" type="text"></td>
+				<td><input name="size" type="text" required></td>
 			</tr>
 			<tr>
 				<td>Category</td>
-				<td><input name="category" type="text"></td>
+				<td><input name="category" type="text" required></td>
 			</tr>
 			<tr>
 				<td>Price</td>
-				<td><input name="price" type="text"></td>
+				<td><input name="price" type="text" required></td>
 			</tr>
 
 			<td><input type="submit" value="Add" /></td>

@@ -8,7 +8,9 @@
 <title>User Display</title>
 </head>
 <body>
-	<h1>Thank you can close Window now.</h1>
+	<h1>Thank You For Shopping</h1>
+	<h3>Visit Again!!!</h3> 
+	<h4>You Can Close The Window Now</h4>
 	
 		
 				

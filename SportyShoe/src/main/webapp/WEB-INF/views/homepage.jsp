@@ -11,7 +11,7 @@
 <body>
 <div align="center">
 <h1>SportyShoe.com </h1>
-
+<h3>Welcome To the Store</h3>
 <h3><a href="/userlogin"> 1)User Login</a></h3><br>
 <h3><a href="/adminlogin">2)Admin Login</a></h3>
 </div>

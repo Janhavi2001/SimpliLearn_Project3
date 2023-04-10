@@ -38,7 +38,7 @@
 	<form action="buyshoe" >
 			<table>
 				</tr>
-				<td>Enter ShoeId To Purchase: <input type="text" name="id" /></td>
+				<td>Enter ShoeId To Purchase: <input type="text" name="id" required /></td>
 				<td><input type="submit" value="Buy" /></td>
 				</tr>
 				
