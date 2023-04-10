@@ -20,6 +20,7 @@
 		<form action="/addproduct">
 			<input type="submit" value="Add Product" />
 		</form>
+		<br/>
 		<form action="/listproduct">
 			<input type="submit" value="List Product" />
 		</form>
